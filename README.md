@@ -1,2 +1,2 @@
 # Theoretical-Mechanics
-Homework 2 report. AS SOON AS I WILL FINISH HW3 THIS REPORT WILL BE CHANGED UNLESS I REALIZE SOMETHING BETTER.
+HOMEWORK 3 TASK 2 GOOGLE COLAB LINK: https://colab.research.google.com/drive/1GcmB7hMnfZo6bAm9Dlip9dstuFcWa9pm?usp=sharing
